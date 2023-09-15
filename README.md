@@ -1,4 +1,5 @@
-# Time Management Application
+# MaybachZee Application
+https://github.com/MaybachZee/WPAProject.git
 
 This is a desktop time management application for managing your semester's study hours.
 
@@ -7,10 +8,9 @@ This is a desktop time management application for managing your semester's study
 - Windows Operating System
 - [.NET Framework](https://dotnet.microsoft.com/download/dotnet-framework) (typically pre-installed on Windows)
 
-## How to Compile and Run
+## How to Compile and Run the Application
 
 1. Clone this repository to your local machine:
-
 
 2. Open the solution file `MaybachZee.sln` in Visual Studio.
 
@@ -30,8 +30,7 @@ This is a desktop time management application for managing your semester's study
 - Select the start date of the semester using the date picker.
 - Click "Calculate" to update module self-study hours.
 
-3. Recording Hours:
-- Select a module from the dropdown.
+3. Recording Hours:.
 - Choose a date using the date picker.
 - Enter the number of hours worked.
 - Click "Record Hours."
@@ -50,5 +49,5 @@ This is a desktop time management application for managing your semester's study
 
 ## Credits
 
-This application was developed by [Your Name].
+This application was developed by [MaybachZee].
 
